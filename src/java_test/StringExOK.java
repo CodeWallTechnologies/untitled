@@ -1,4 +1,4 @@
-package java;
+package java_test;
 
 public class StringExOK {
     public static void main(String[] args) {

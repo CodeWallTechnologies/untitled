@@ -1,0 +1,8 @@
+java => for each loop
+kotlin => for in loop
+#code is same
+
+java =>ternary operator
+kotlin => if else
+
+

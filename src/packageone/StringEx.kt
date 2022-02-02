@@ -1,7 +1,5 @@
 package packageone
 
-import java.StringExOK
-
 
 fun main(args: Array<String>) {
    val message:String = """

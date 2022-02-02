@@ -1,6 +1,6 @@
 package packageone
 
-import java.StringExOK
+import java_test.StringExOK
 
 class ArrayEx {
 
